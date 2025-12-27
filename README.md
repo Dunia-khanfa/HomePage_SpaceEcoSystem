@@ -1,4 +1,4 @@
-# HomePage_SpaceEcoSystem
+# SpaceEcoSystem
 SpaceEco - Space Station Waste Management System 🚀
 
 SpaceEco is a specialized web application designed for astronauts on the International Space Station (ISS) to manage and document daily waste production and recycling processes. In the orbital environment, every gram of waste is critical, and efficient management is vital for station safety and logistics.
