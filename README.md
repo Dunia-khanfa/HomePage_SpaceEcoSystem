@@ -30,6 +30,6 @@ Safety Card: Specialized handling instructions for dangerous goods.
 My Log: Personal shift activity history and reporting status.
 
 🔗 Project Link
-You can access the live project or repository here: [Insert Link Here]
+You can access the live project or repository here: https://dunia-khanfa.github.io/HomePage_SpaceEcoSystem/
 
 Developed by: Roy Yaari, Reut Alon, & Dunia Khanfa.
